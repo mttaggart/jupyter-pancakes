@@ -1,5 +1,9 @@
 # jupyter-pancakes
 
+This repo accompanies my Pancakescon2020 talk on using Jupyter in Infosec.
+
+[Slides from Presentation](https://docs.google.com/presentation/d/10z-7WzBacH7nr6Ah8FuqO2ANYVeyw1aovDb9zDVypT8/edit?usp=sharing)
+
 ## Installing Python/Dependencies
 
 Make sure you have Python 3.6 or higher installed. You should, but if not, grab it from [python.org](https://python.org). 
